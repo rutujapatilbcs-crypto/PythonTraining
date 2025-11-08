@@ -2,6 +2,8 @@
 # Lists are one of 4 built-in data types in Python used to store collections of data
 # list is mutable
 
+# List can store Numbers, Strings, Float, Boolean, List, Tuple, Dictionary, etc.
+
 
 num = [10,12,22,32,42,52]
 

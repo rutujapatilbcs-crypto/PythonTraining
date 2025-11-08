@@ -1,5 +1,8 @@
 # Dictionaries are used to store data values in key:value pairs.
-#A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
+# A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
+# A Dictionary stores data in Key : Value pairs.
+# Keys	Should be unique and immutable (string, number, tuple)
+# Values Can be of any type (int, string, list, tuple, dict etc.)
 
 data={1:"Rutuja", 2:"Devyani", 3:"Jyoti"}
 print(data)
